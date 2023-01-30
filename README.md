@@ -6,7 +6,7 @@
 - 📚 I’m currently learning QA testing, Flutter and Express.js
 - 🎓 Studying at Polytechnic Institute of Porto - ESMAD
 - 📩 Contact me by email: isabella.bertucci17@gmail.com
-
+- 🌳 My linktree: https://linktr.ee/ibertucci?utm_source=linktree_profile_share&ltsid=731cfc29-21b4-4b2a-a2b7-0751d8b6b0c7
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -18,9 +18,9 @@
 ##
  
 <div> 
-
+  
   <a href="https://www.linkedin.com/in/isabella-bertucci-8641521a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://dribbble.com/ibertucci" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a> 
+  <a href="https://dribbble.com/ibertucci" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a> 
   <a href="https://www.behance.net/isabellabertucci" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
 
 </div>
