@@ -6,11 +6,11 @@
 - 📚 I’m currently learning QA testing, Flutter and Express.js
 - 🎓 Studying at Polytechnic Institute of Porto - ESMAD
 - 📩 Contact me by email: isabella.bertucci17@gmail.com
-- 🌳 My linktree: https://linktr.ee/ibertucci?utm_source=linktree_profile_share&ltsid=731cfc29-21b4-4b2a-a2b7-0751d8b6b0c7
+- 🌳 My linktree: https://linktr.ee/ibertucci
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Isa-Express.js" height="30" width="40" src="https://img.icons8.com/ios/512/express-js.png">
+  <img align="center" alt="Isa-Express.js" height="30" width="30"  src="https://img.icons8.com/officel/512/express-js.png">
    <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
