@@ -6,7 +6,6 @@
 - 📚 I’m currently learning QA testing, Flutter and Express.js
 - 🎓 Studying at Polytechnic Institute of Porto - ESMAD
 - 📩 Contact me by email: isabella.bertucci17@gmail.com
-- 🌳 My linktree: https://linktr.ee/ibertucci?utm_source=linktree_profile_share&ltsid=731cfc29-21b4-4b2a-a2b7-0751d8b6b0c7 
 
 
 <div style="display: inline_block"><br>
