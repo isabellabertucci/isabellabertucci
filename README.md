@@ -1,10 +1,9 @@
 ### Hii! I am Isabella Bertucci 👋 
 
-✨ I'm 20 years old and I'm passionate about the world of art and technology ✨
 
 
-- 📚 I’m currently learning QA testing, Flutter and Express.js
-- 🎓 Studying at Polytechnic Institute of Porto - ESMAD
+- 📚 I’m currently learning Flutter and Express.js
+- 🎓 Studied at Polytechnic Institute of Porto - ESMAD
 - 📩 Contact me by email: isabella.bertucci17@gmail.com
 - 🌳 My linktree: https://linktr.ee/ibertucci
 
